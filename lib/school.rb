@@ -25,4 +25,5 @@ class School
        @roster[key] = value.sort
     end
     @roster
+  end
 end
