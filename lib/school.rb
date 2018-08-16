@@ -20,4 +20,10 @@ class School
     @roster[grade]
   end
   
+  def sort()
+    @roster.collect do |key,value|
+        
+    
+    end
+  
 end
