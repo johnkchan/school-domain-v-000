@@ -12,7 +12,7 @@ class School
       @roster[grade] << name
     else
       @roster[grade] << name
-    emd
+    end
   end
   
   def grade(grade)
